@@ -97,6 +97,7 @@ public class Java extends JFrame implements ActionListener{
             if(current==4)//we have started current from 0
             {
                 b1.setVisible(false);
+                print("hello")
                 add(b2);   
             }   
         }
